@@ -1,0 +1,52 @@
+{
+  "version": "1",
+  "name": "Magisk Updater",
+  "description": "โปรแกรมตรวจสอบและอัปเดต Magisk บนอุปกรณ์ Android",
+  "last_updated": "2023-12-20",
+  "changelog": "- เพิ่มโฟลเดอร์ files สำหรับเก็บไฟล์ทั้งหมด\n- เพิ่มการตรวจสอบเวอร์ชันโปรแกรมอัตโนมัติ\n- เพิ่มการดาวน์โหลดไฟล์อัตโนมัติจาก GitHub\n- ปรับปรุงการแสดงผลให้มีสีสัน",
+  "download_url": "https://github.com/test/Download/releases/download/files/magisk_updater_v1.zip",
+  "files": {
+    "ZygiskNext.zip": {
+      "version": "1.2.8 (512-4b5d6ad-release)",
+      "download_url": "https://github.com/user-attachments/files/19571953/ZygiskNext.zip"
+    },
+    "PlayIntegrityFix.zip": {
+      "version": "v18.8",
+      "download_url": "https://github.com/user-attachments/files/19571957/PlayIntegrityFix.zip"
+    },
+    "LSPosed.zip": {
+      "version": "v1.10.1 (7115)",
+      "download_url": "https://github.com/user-attachments/files/19571958/LSPosed.zip"
+    },
+    "Shamiko.zip": {
+      "version": "v1.2.1 (383)",
+      "download_url": "https://github.com/user-attachments/files/19571960/Shamiko.zip"
+    },
+    "TrickyStore.zip": {
+      "version": "v1.2.1 (158-51390a7-release)",
+      "download_url": "https://github.com/user-attachments/files/19571963/TrickyStore.zip"
+    },
+    "TTarget.zip": {
+      "version": "v2",
+      "download_url": "https://github.com/user-attachments/files/19571967/TTarget.zip"
+    },
+    "HMA.apk": {
+      "version": "1",
+      "download_url": "https://github.com/test/Download/releases/download/files/HMA.apk"
+    },
+    "Magisk.apk": {
+      "version": "25.2",
+      "download_url": "https://github.com/test/Download/releases/download/files/Magisk.apk"
+    },
+    "keybox.xml": {
+      "version": "1",
+      "download_url": "https://raw.githubusercontent.com/skycosth/download/refs/heads/main/keybox.xml"
+    },
+    "target.txt": {
+      "version": "1",
+      "download_url": "https://github.com/test/Download/releases/download/files/target.txt"
+    }
+ 
+    }
+  }
+} 
