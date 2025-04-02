@@ -32,11 +32,11 @@
     },
     "HMA.apk": {
       "version": "1",
-      "download_url": "https://github.com/test/Download/releases/download/files/HMA.apk"
+      "download_url": "https://github.com/skycosth/download/raw/refs/heads/main/HMA.apk"
     },
     "Magisk.apk": {
       "version": "25.2",
-      "download_url": "https://github.com/test/Download/releases/download/files/Magisk.apk"
+      "download_url": "https://github.com/skycosth/download/raw/refs/heads/main/Magisk.apk"
     },
     "keybox.xml": {
       "version": "1",
