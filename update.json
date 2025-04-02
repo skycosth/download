@@ -8,27 +8,27 @@
   "files": {
     "ZygiskNext.zip": {
       "version": "1.2.8 (512-4b5d6ad-release)",
-      "download_url": "https://github.com/user-attachments/files/19571953/ZygiskNext.zip"
+      "download_url": "https://github.com/skycosth/download/raw/refs/heads/main/ZygiskNext.zip"
     },
     "PlayIntegrityFix.zip": {
       "version": "v18.8",
-      "download_url": "https://github.com/user-attachments/files/19571957/PlayIntegrityFix.zip"
+      "download_url": "https://github.com/skycosth/download/raw/refs/heads/main/PlayIntegrityFix.zip"
     },
     "LSPosed.zip": {
       "version": "v1.10.1 (7115)",
-      "download_url": "https://github.com/user-attachments/files/19571958/LSPosed.zip"
+      "download_url": "https://github.com/skycosth/download/raw/refs/heads/main/LSPosed.zip"
     },
     "Shamiko.zip": {
       "version": "v1.2.1 (383)",
-      "download_url": "https://github.com/user-attachments/files/19571960/Shamiko.zip"
+      "download_url": "https://github.com/skycosth/download/raw/refs/heads/main/Shamiko.zip"
     },
     "TrickyStore.zip": {
       "version": "v1.2.1 (158-51390a7-release)",
-      "download_url": "https://github.com/user-attachments/files/19571963/TrickyStore.zip"
+      "download_url": "https://github.com/skycosth/download/raw/refs/heads/main/TrickyStore.zip"
     },
     "TTarget.zip": {
       "version": "v2",
-      "download_url": "https://github.com/user-attachments/files/19571967/TTarget.zip"
+      "download_url": "https://github.com/skycosth/download/raw/refs/heads/main/TTarget.zip"
     },
     "HMA.apk": {
       "version": "1",
