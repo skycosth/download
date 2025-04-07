@@ -1,0 +1,11 @@
+{
+  [
+  {"id" : "uflix-epl1", "logo" : "https://static.uflixtv.com/images/tv/channels_icons/epl-1.png"},
+  {"id" : "uflix-epl1bkp", "logo" : "https://static.uflixtv.com/images/tv/channels_icons/epl-1bkp.png"},
+  {"id" : "th-epl1", "logo" : "https://static.uflixtv.com/images/tv/channels_icons/epl-2.png"},
+  {"id" : "uflix-epl2", "logo" : "https://static.uflixtv.com/images/tv/channels_icons/epl-1.png"},
+  {"id" : "th-epl2", "logo" : "https://static.uflixtv.com/images/tv/channels_icons/epl-2.png"},
+  {"id" : "uflix-epl3", "logo" : "https://static.uflixtv.com/images/tv/channels_icons/epl-3.png"}
+
+]
+}
