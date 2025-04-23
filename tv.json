@@ -1,299 +1,279 @@
 {
-    "อินเตอร์": [
+      "ฟรีทีวี": [
     {
-      "id": "uk-bbcnewshd",
-      "name": "uk-bbcnewshd",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-bbcnewshd.png"
+      "id": "hd-ch3",
+      "name": "hd-ch3",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-ch3.png"
     },
     {
-      "id": "uk-bbc1hd",
-      "name": "uk-bbc1hd",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-bbc1hd.png"
+      "id": "hd-ch3bkp",
+      "name": "hd-ch3bkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-ch3bkp.png"
     },
     {
-      "id": "uk-bbc2hd",
-      "name": "uk-bbc2hd",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-bbc2hd.png"
+      "id": "th-ch3",
+      "name": "th-ch3",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-ch3.png"
     },
     {
-      "id": "uk-bbc4hd",
-      "name": "uk-bbc4hd",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-bbc4hd.png"
+      "id": "hd-ch5",
+      "name": "hd-ch5",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-ch5.png"
     },
     {
-      "id": "uk-bbc1scotland",
-      "name": "uk-bbc1scotland",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-bbc1scotland.png"
+      "id": "hd-ch5bkp",
+      "name": "hd-ch5bkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-ch5bkp.png"
     },
     {
-      "id": "uk-bbc2scotland",
-      "name": "uk-bbc2scotland",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-bbc2scotland.png"
+      "id": "th-ch5",
+      "name": "th-ch5",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-ch5.png"
     },
     {
-      "id": "uk-bbcalba",
-      "name": "uk-bbcalba",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-bbcalba.png"
+      "id": "hd-ch7",
+      "name": "hd-ch7",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-ch7.png"
     },
     {
-      "id": "uk-itv1hd",
-      "name": "uk-itv1hd",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-itv1hd.png"
+      "id": "hd-ch7bkp",
+      "name": "hd-ch7bkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-ch7bkp.png"
     },
     {
-      "id": "uk-itv2",
-      "name": "uk-itv2",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-itv2.png"
+      "id": "th-ch7",
+      "name": "th-ch7",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-ch7.png"
     },
     {
-      "id": "uk-itv3",
-      "name": "uk-itv3",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-itv3.png"
+      "id": "hd-mcot",
+      "name": "hd-mcot",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-mcot.png"
     },
     {
-      "id": "uk-itv4",
-      "name": "uk-itv4",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-itv4.png"
+      "id": "hd-mcotbkp",
+      "name": "hd-mcotbkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-mcotbkp.png"
     },
     {
-      "id": "uk-channel4hd",
-      "name": "uk-channel4hd",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-channel4hd.png"
+      "id": "th-mcot",
+      "name": "th-mcot",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-mcot.png"
     },
     {
-      "id": "uk-channel5",
-      "name": "uk-channel5",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-channel5.png"
+      "id": "hd-workpoint",
+      "name": "hd-workpoint",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-workpoint.png"
     },
     {
-      "id": "uk-4sevenhd",
-      "name": "uk-4sevenhd",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-4sevenhd.png"
+      "id": "hd-workpointbkp",
+      "name": "hd-workpointbkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-workpointbkp.png"
     },
     {
-      "id": "ie-rte1",
-      "name": "ie-rte1",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/ie-rte1.png"
+      "id": "th-workpoint",
+      "name": "th-workpoint",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-workpoint.png"
     },
     {
-      "id": "ie-rte2",
-      "name": "ie-rte2",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/ie-rte2.png"
+      "id": "sd-gmmchannel",
+      "name": "sd-gmmchannel",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-gmmchannel.png"
     },
     {
-      "id": "ie-tg4",
-      "name": "ie-tg4",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/ie-tg4.png"
+      "id": "sd-gmmchannelbkp",
+      "name": "sd-gmmchannelbkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-gmmchannelbkp.png"
     },
     {
-      "id": "uk-discovery",
-      "name": "uk-discovery",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-discovery.png"
+      "id": "th-gmmchannel",
+      "name": "th-gmmchannel",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-gmmchannel.png"
     },
     {
-      "id": "uk-discoveryhistory",
-      "name": "uk-discoveryhistory",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-discoveryhistory.png"
+      "id": "hd-mono",
+      "name": "hd-mono",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-mono.png"
     },
     {
-      "id": "uk-discoveryscience",
-      "name": "uk-discoveryscience",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-discoveryscience.png"
+      "id": "th-mono",
+      "name": "th-mono",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-mono.png"
     },
     {
-      "id": "uk-discoveryturbo",
-      "name": "uk-discoveryturbo",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-discoveryturbo.png"
+      "id": "hd-ch8",
+      "name": "hd-ch8",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-ch8.png"
     },
     {
-      "id": "uk-dmax",
-      "name": "uk-dmax",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-dmax.png"
+      "id": "hd-ch8bkp",
+      "name": "hd-ch8bkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-ch8bkp.png"
     },
     {
-      "id": "uk-history",
-      "name": "uk-history",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-history.png"
+      "id": "th-ch8",
+      "name": "th-ch8",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-ch8.png"
     },
     {
-      "id": "uk-history2",
-      "name": "uk-history2",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-history2.png"
+      "id": "hd-gmmone",
+      "name": "hd-gmmone",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-gmmone.png"
     },
     {
-      "id": "uk-natgeo",
-      "name": "uk-natgeo",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-natgeo.png"
+      "id": "hd-gmmonebkp",
+      "name": "hd-gmmonebkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-gmmonebkp.png"
     },
     {
-      "id": "uk-natgeowild",
-      "name": "uk-natgeowild",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-natgeowild.png"
+      "id": "th-gmmone",
+      "name": "th-gmmone",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-gmmone.png"
     },
     {
-      "id": "uk-5star",
-      "name": "uk-5star",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-5star.png"
+      "id": "hd-amarin",
+      "name": "hd-amarin",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-amarin.png"
     },
     {
-      "id": "uk-alibi",
-      "name": "uk-alibi",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-alibi.png"
+      "id": "hd-amarinbkp",
+      "name": "hd-amarinbkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-amarinbkp.png"
     },
     {
-      "id": "uk-cbsaction",
-      "name": "uk-cbsaction",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-cbsaction.png"
+      "id": "th-amarin",
+      "name": "th-amarin",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-amarin.png"
     },
     {
-      "id": "uk-cbsdrama",
-      "name": "uk-cbsdrama",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-cbsdrama.png"
+      "id": "hd-thairath",
+      "name": "hd-thairath",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-thairath.png"
     },
     {
-      "id": "uk-cbsreality",
-      "name": "uk-cbsreality",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-cbsreality.png"
+      "id": "hd-thairathbkp",
+      "name": "hd-thairathbkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-thairathbkp.png"
     },
     {
-      "id": "uk-challenge",
-      "name": "uk-challenge",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-challenge.png"
+      "id": "th-thairath",
+      "name": "th-thairath",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-thairath.png"
     },
     {
-      "id": "uk-ci",
-      "name": "uk-ci",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-ci.png"
+      "id": "hd-pptv",
+      "name": "hd-pptv",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-pptv.png"
     },
     {
-      "id": "uk-comedycentral",
-      "name": "uk-comedycentral",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-comedycentral.png"
+      "id": "hd-pptvbkp",
+      "name": "hd-pptvbkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-pptvbkp.png"
     },
     {
-      "id": "uk-dave",
-      "name": "uk-dave",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-dave.png"
+      "id": "th-pptv",
+      "name": "th-pptv",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-pptv.png"
     },
     {
-      "id": "uk-drama",
-      "name": "uk-drama",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-drama.png"
+      "id": "sd-24u",
+      "name": "sd-24u",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-24u.png"
     },
     {
-      "id": "uk-e4",
-      "name": "uk-e4",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-e4.png"
+      "id": "sd-24ubkp",
+      "name": "sd-24ubkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-24ubkp.png"
     },
     {
-      "id": "uk-film4",
-      "name": "uk-film4",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-film4.png"
+      "id": "th-24u",
+      "name": "th-24u",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-24u.png"
     },
     {
-      "id": "uk-foodnetwork",
-      "name": "uk-foodnetwork",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-foodnetwork.png"
+      "id": "sd-nation",
+      "name": "sd-nation",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-nation.png"
     },
     {
-      "id": "uk-gold",
-      "name": "uk-gold",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-gold.png"
+      "id": "sd-nationbkp",
+      "name": "sd-nationbkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-nationbkp.png"
     },
     {
-      "id": "uk-id",
-      "name": "uk-id",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-id.png"
+      "id": "th-nation",
+      "name": "th-nation",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-nation.png"
     },
     {
-      "id": "uk-more4",
-      "name": "uk-more4",
-      "img": "https://static.uflixtv.com/images/tv/channels_icons/uk-more4.png"
+      "id": "sd-new",
+      "name": "sd-new",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-new.png"
     },
     {
-      "id": "uk-itvbe",
-      "name": "uk-itvbe",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "sd-newbkp",
+      "name": "sd-newbkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-newbkp.png"
     },
     {
-      "id": "uk-mtv",
-      "name": "uk-mtv",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "th-new",
+      "name": "th-new",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-new.png"
     },
     {
-      "id": "uk-pick",
-      "name": "uk-pick",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "sd-tnn24",
+      "name": "sd-tnn24",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-tnn24.png"
     },
     {
-      "id": "uk-quest",
-      "name": "uk-quest",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "sd-tnn24bkp",
+      "name": "sd-tnn24bkp",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-tnn24bkp.png"
     },
     {
-      "id": "uk-sky1",
-      "name": "uk-sky1",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "th-tnn24",
+      "name": "th-tnn24",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-tnn24.png"
     },
     {
-      "id": "uk-sky2",
-      "name": "uk-sky2",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "hd-tpbs",
+      "name": "hd-tpbs",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-tpbs.png"
     },
     {
-      "id": "uk-skycinema-action",
-      "name": "uk-skycinema-action",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "hd-tpbsbkp",
+      "name": "hd-tpbsbkp",
+      "img": "https://static.uflixtv.com/images/tv/png/hd-tpbsbkp.png"
     },
     {
-      "id": "uk-skycinema-comedy",
-      "name": "uk-skycinema-comedy",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "th-tpbs",
+      "name": "th-tpbs",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-tpbs.png"
     },
     {
-      "id": "uk-skycinema-animation",
-      "name": "uk-skycinema-animation",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "sd-nbt",
+      "name": "sd-nbt",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-nbt.png"
     },
     {
-      "id": "uk-skycinema-family",
-      "name": "uk-skycinema-family",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "sd-nbtbkp",
+      "name": "sd-nbtbkp",
+      "img": "https://static.uflixtv.com/images/tv/png/sd-nbtbkp.png"
     },
     {
-      "id": "uk-skycinema-greats",
-      "name": "uk-skycinema-greats",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "th-nbt",
+      "name": "th-nbt",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/th-nbt.png"
     },
     {
-      "id": "uk-skycinema-premiere",
-      "name": "uk-skycinema-premiere",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "sd-tptv",
+      "name": "sd-tptv",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/sd-tptv.png"
     },
     {
-      "id": "uk-skycinema-scifi",
-      "name": "uk-skycinema-scifi",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
-    },
-    {
-      "id": "uk-skyatlantic",
-      "name": "uk-skyatlantic",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
-    },
-    {
-      "id": "uk-skycinema-thriller",
-      "name": "uk-skycinema-thriller",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
-    },
-    {
-      "id": "uk-usa",
-      "name": "uk-usa",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
-    },
-    {
-      "id": "uk-yesterday",
-      "name": "uk-yesterday",
-      "img": "skin/solo_lite/shared/images/tv-overlay.png"
+      "id": "hd-topnews",
+      "name": "hd-topnews",
+      "img": "https://static.uflixtv.com/images/tv/channels_icons/hd-topnews.png"
     }
   ],
    "กีฬา": [
